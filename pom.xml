@@ -12,7 +12,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <version.fabric8>2.2.192</version.fabric8>
     <version.fabric8-maven-plugin>3.5.28</version.fabric8-maven-plugin>
-    <version.spring-boot>1.4.1.RELEASE</version.spring-boot>
+    <version.spring-boot>1.5.8.RELEASE</version.spring-boot>
   </properties>
   <dependencyManagement>
     <dependencies>
